@@ -1,5 +1,5 @@
 # The Veil OS Evolved
-4# 🔱 The Veil — OS  
+# 🔱 The Veil — OS  
 A sovereign‑grade override engine for ethical intelligence and accessibility.  
 Every action is cryptographically sealed, symbolically visible, and linguistically affirmed.
 
