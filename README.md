@@ -1,7 +1,6 @@
 <p align="center">
 ![Uploading A futuristic hospita.png…]()
-<img src="docs/sovereign_dashboard.pn![Uploading A futuristic hospita.png…]()
-g" alt="Sovereign Organ Dashboard" width="800"/>
+  <img src="docs/sovereign_dashboard.png" alt="Sovereign Organ Dashboard" width="800"/>
 </p>
 
 <h1 align="center">THE VEIL OS</h1>
