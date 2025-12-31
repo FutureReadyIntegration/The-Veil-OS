@@ -1,0 +1,54 @@
+src/
+└── veil/
+    ├── __init__.py
+    ├── core/
+    │   ├── __init__.py
+    │   ├── heartbeat.py
+    │   ├── logging.py
+    │   ├── state.py
+    │   └── config.py
+    │
+    ├── organs/
+    │   ├── __init__.py
+    │   ├── guardian.py
+    │   ├── chronicle.py
+    │   ├── hospital.py
+    │   ├── reconciler.py
+    │   └── weaver.py
+    │
+    ├── control_plane/
+    │   ├── __init__.py
+    │   ├── model/
+    │   │   ├── __init__.py
+    │   │   └── schema.py
+    │   │
+    │   ├── authority/
+    │   │   ├── __init__.py
+    │   │   └── rules.py
+    │   │
+    │   ├── protocol/
+    │   │   ├── __init__.py
+    │   │   └── messages.py
+    │   │
+    │   ├── storage/
+    │   │   ├── __init__.py
+    │   │   └── persistence.py
+    │   │
+    │   ├── server/
+    │   │   ├── __init__.py
+    │   │   └── api.py
+    │   │
+    │   └── client/
+    │       ├── __init__.py
+    │       └── interface.py
+    │
+    ├── gui/
+    │   ├── __init__.py
+    │   ├── dashboard.py
+    │   └── theme.qss
+    │
+    └── runtime/
+        ├── __init__.py
+        ├── paths.py
+        ├── supervisor.py
+        └── bootstrap.py
