@@ -49,3 +49,20 @@ if __name__ == "__main__":
 
 chmod +x scripts/post_install.py
 
+🜁 How to Use These Together
+1. Bootstrap the runtime
+bash
+make bootstrap
+2. Perform the post-install ritual
+bash
+python scripts/post_install.py
+3. Launch the dashboard
+bash
+make dashboard
+4. Start organs individually
+bash
+make guardian
+make chronicle
+make hospital
+make reconciler
+make weaver
