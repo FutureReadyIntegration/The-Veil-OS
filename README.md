@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./sovereign_dashboard.png" width="800" alt="Sovereign Dashboard">
 </div>
-
 # 📜 THE VEIL OS — THE SOVEREIGN ARCHIVE
 
 Welcome, traveler.
