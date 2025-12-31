@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="918" height="655" alt="Screenshot 4" src="https://github.com/user-attachments/assets/12bcbbc7-5067-4a03-8595-fa808056dbd2" />
-<img src="docs/sovereign_dashboard.png" alt="Sovereign Organ Dashboard" width="800"/>
+<img src="docs/sovereign_dashboard.pn![Uploading A futuristic hospita.png…]()
+g" alt="Sovereign Organ Dashboard" width="800"/>
 </p>
 
 <h1 align="center">THE VEIL OS</h1>
