@@ -1,0 +1,11 @@
+theme: just-the-docs
+title: "The Veil OS"
+logo: "/assets/banner.png"
+color_scheme: dark
+
+nav_order: 1
+search_enabled: true
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/YOUR_USERNAME/YOUR_REPO"
