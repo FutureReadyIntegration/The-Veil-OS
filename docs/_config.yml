@@ -1,11 +1,8 @@
-theme: just-the-docs
 title: "The Veil OS"
-logo: "/assets/banner.png"
-color_scheme: dark
+description: "Sovereign Multi‑Organ Intelligence • Clinical Stability • Ritual Clarity"
+theme: just-the-docs
 
-nav_order: 1
-search_enabled: true
-
-aux_links:
-  "GitHub Repository":
-    - "https://github.com/FutureReadyIntegration/The-Veil-OS"
+# Enable search
+just_the_docs:
+  search_enabled: true
+  logo: "/docs/sovereign_dashboard.png"
