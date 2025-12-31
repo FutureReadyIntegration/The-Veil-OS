@@ -1,8 +1,8 @@
 title: "The Veil OS"
 description: "Sovereign Multi‑Organ Intelligence • Clinical Stability • Ritual Clarity"
-theme: just-the-docs
 
-# Enable search
+remote_theme: just-the-docs/just-the-docs@v0.5.2
+
 just_the_docs:
   search_enabled: true
   logo: "/docs/sovereign_dashboard.png"
