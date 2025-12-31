@@ -1,3 +1,8 @@
+---
+title: Documentation Index
+nav_order: 1
+---
+
 # 🔱 The Veil OS — Documentation Index
 
 ## 🧬 Organ Index
