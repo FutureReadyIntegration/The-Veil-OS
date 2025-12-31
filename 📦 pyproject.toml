@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-veil"
+version = "0.4.0"
+description = "A sovereign-grade override engine with organ-based architecture, heartbeat runtime, and ritualized control plane."
+authors = [
+    { name = "Future_Ready" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pyside6>=6.6",
+    "pillow>=10.0",
+    "numpy>=1.24",
+    "pyyaml>=6.0",
+    "rich>=13.0",
+    "requests>=2.31",
+    "watchdog>=3.0",
+    "uvicorn>=0.29",
+    "fastapi>=0.110",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "ruff",
+    "pytest",
+    "pytest-cov",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["veil*", "control_plane*", "organs*"]
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "W"]
+ignore = ["E501"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
