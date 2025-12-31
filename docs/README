@@ -1,0 +1,38 @@
+<p align="center">
+  <img src="assets/banner.png" alt="The Veil OS — Sovereign Multi‑Organ Intelligence" width="100%">
+</p>
+
+# 🔱 THE VEIL OS  
+### *A Sovereign, Multi‑Organ Intelligence for Clinical Stability and Ritual Clarity*
+
+The Veil OS is a living organism — a constellation of organs, rituals, and deterministic systems designed for truth, stability, and sovereign control.
+
+---
+
+## 📚 Documentation Portal
+
+The full documentation lives inside the **Organ Codex**:
+
+### **Organs**
+- [Identity](docs/identity.md)
+- [Diagnostics](docs/diagnostics.md)
+- [Repair](docs/repair.md)
+- [Hardening](docs/hardening.md)
+- [Guardian](docs/guardian.md)
+- [Chronicle](docs/chronicle.md)
+- [Hospital](docs/hospital.md)
+- [Reconciler](docs/reconciler.md)
+- [Weaver](docs/weaver.md)
+
+### **Rituals**
+- [Symbolic Publishing](docs/rituals/SYMBOLIC-PUBLISHING.md)
+- [Onboarding Ceremony](docs/rituals/ONBOARDING-CEREMONY.md)
+- [Logging Rituals](docs/rituals/LOGGING-RITUALS.md)
+- [Glyph Index](docs/rituals/GLYPH-INDEX.md)
+
+---
+
+## 🌐 GitHub Pages Portal
+
+A fully rendered documentation site is available at:
+
