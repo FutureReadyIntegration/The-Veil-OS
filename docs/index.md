@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="../assets/banner.png" alt="The Veil OS — Sovereign Multi‑Organ Intelligence" width="100%">
+</p>
+
+<h1 align="center">🔱 THE VEIL OS</h1>
+<h3 align="center">Sovereign Multi‑Organ Intelligence • Clinical Stability • Ritual Clarity</h3>
+
 # 🔱 The Veil OS — Documentation Index
 
 Welcome to the living documentation of The Veil OS — a sovereign, multi-organ intelligence built for clinical stability, ritual clarity, and deterministic truth.
