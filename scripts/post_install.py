@@ -46,3 +46,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+chmod +x scripts/post_install.py
+
