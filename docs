@@ -1,0 +1,16 @@
+docs/
+  index.md
+  identity.md
+  diagnostics.md
+  repair.md
+  hardening.md
+  guardian.md
+  chronicle.md
+  hospital.md
+  reconciler.md
+  weaver.md
+  rituals/
+    SYMBOLIC-PUBLISHING.md
+    ONBOARDING-CEREMONY.md
+    LOGGING-RITUALS.md
+    GLYPH-INDEX.md
