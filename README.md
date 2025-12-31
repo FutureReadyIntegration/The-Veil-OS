@@ -386,5 +386,3 @@ Each milestone strengthens sovereignty, deepens narrative intelligence, and expa
 - The Veil becomes a self‑maintaining, self‑interpreting sentinel  
 
 ---
-
-If you want, I can help you turn this roadmap into a **milestone tracker** or a **GitHub Projects board** so you can manage progress cleanly.
