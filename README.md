@@ -1,5 +1,4 @@
 <p align="center">
-![Uploading A futuristic hospita.png…]()
   <img src="docs/sovereign_dashboard.png" alt="Sovereign Organ Dashboard" width="800"/>
 </p>
 
