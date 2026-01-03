@@ -1,0 +1,21 @@
+bittyverse/
+  ai/
+    personas/
+      [bitty_name]/
+        persona.py
+        handlers.py
+        rituals.py
+    skills/
+      [skill_name].py
+    registry/
+      loader.py
+  backend/
+    modules/
+      [module_name]/
+        ...
+  rosetta/
+    stone.yaml
+  frontend/
+    components/
+      [bitty_name]/
+        ...
